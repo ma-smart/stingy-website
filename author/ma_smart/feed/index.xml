@@ -11,7 +11,7 @@
 	<title>ma_smart &#8211; Stingy</title>
 	<atom:link href="http://localhost/wordpress/author/ma_smart/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ma-smart.github.io/stingy-website</link>
-	<description>Just another WordPress site</description>
+	<description>Fish keeping made simple!</description>
 	<lastBuildDate>Fri, 01 Jan 2021 08:19:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.6</generator>
+
+<image>
+	<url>https://ma-smart.github.io/stingy-website/wp-content/uploads/2021/01/stingray-150x150.png</url>
+	<title>ma_smart &#8211; Stingy</title>
+	<link>https://ma-smart.github.io/stingy-website</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>https://ma-smart.github.io/stingy-website/2021/01/01/hello-world/</link>

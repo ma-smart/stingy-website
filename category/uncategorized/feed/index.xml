@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Stingy</title>
-	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<title>Uncategorized &#8211; Stingy</title>
+	<atom:link href="http://localhost/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ma-smart.github.io/stingy-website</link>
 	<description>Fish keeping made simple!</description>
 	<lastBuildDate>Fri, 01 Jan 2021 08:19:23 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://ma-smart.github.io/stingy-website/wp-content/uploads/2021/01/stingray-150x150.png</url>
-	<title>Stingy</title>
+	<title>Uncategorized &#8211; Stingy</title>
 	<link>https://ma-smart.github.io/stingy-website</link>
 	<width>32</width>
 	<height>32</height>
